@@ -1,4 +1,4 @@
-package json;
+package json.dao;
 
 import json.annotations.CustomDateFormat;
 import json.annotations.JsonValue;
